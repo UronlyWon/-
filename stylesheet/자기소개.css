@@ -1,0 +1,20 @@
+.header {
+  text-align: center;
+  background-color: white;
+  margin: 5cm;
+  padding-top: 1cm;
+}
+.maincontents {
+  background-color: darkgrey;
+  text-align: center;
+  text-decoration-color: crimson;
+}
+.footer {
+  text-align: center;
+  background-color: darkgray;
+}
+.footprint {
+  text-align: center;
+  background-color: whitesmoke;
+  margin-bottom: 5em;
+}
